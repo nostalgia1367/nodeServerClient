@@ -1,4 +1,3 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,intellij+all,eclipse,vuejs,vue,react,yarn,bower,grunt
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,visualstudiocode,intellij+all,eclipse,vuejs,vue,react,yarn,bower,grunt
 
@@ -17,7 +16,6 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
 .loadpath
 .recommenders
 
